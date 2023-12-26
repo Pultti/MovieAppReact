@@ -2,6 +2,8 @@
 
 **Elokuvaharrastelijan sovellus made by NWA** 
 
+No copyright, this is our group task where we spend a lot of hours.
+
 - Youtube: https://youtu.be/vqPHRC3u-tI
 - Nettisivu: https://nwadb.onrender.com/
 
