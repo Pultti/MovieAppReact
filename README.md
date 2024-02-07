@@ -2,7 +2,7 @@
 
 **Elokuvaharrastelijan sovellus made by NWA** 
 
-No copyright, this is our group task where we spend a lot of hours.
+Please Fork this repo instead of cloning, so we can all learn.
 
 - Youtube: https://youtu.be/vqPHRC3u-tI
 - Nettisivu: https://nwadb.onrender.com/
